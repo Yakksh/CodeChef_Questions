@@ -1,7 +1,7 @@
 package questions;
 
 import java.util.*;
-public class increasing_decreasing {
+public class chef_and_demonetisation {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
